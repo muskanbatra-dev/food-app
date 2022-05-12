@@ -17,7 +17,7 @@ export default function Home() {
       <Featured/>
       <PizzaList/>
 
-      homepage
+     
       
     </div>
   )
